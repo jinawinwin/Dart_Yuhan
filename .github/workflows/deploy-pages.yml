@@ -4,6 +4,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Update OpenDART financial data"]
+    types: [completed]
 
 permissions:
   contents: read
@@ -16,12 +19,16 @@ concurrency:
 
 jobs:
   deploy:
+    # OpenDART 갱신 workflow가 성공했을 때에만 그 결과를 다시 배포한다.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
