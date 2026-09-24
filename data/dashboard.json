@@ -3,7 +3,7 @@
   "stock_code": "000100",
   "corp_code": "00145109",
   "basis": "연결 기준, 단위: 원. 분기·반기 손익과 현금흐름은 누적 기준일 수 있습니다.",
-  "updated_at": "2026-09-24T05:07:51.783035+00:00",
+  "updated_at": "2026-09-24T05:18:52.072560+00:00",
   "source": {
     "provider": "OpenDART 단일회사 재무제표 API",
     "report_url": "https://dart.fss.or.kr/navi/searchNavi.do?naviCode=B001&naviCrpCik=00145109"
