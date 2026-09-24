@@ -1,0 +1,83 @@
+{
+  "company": "유한양행",
+  "corp_code": "00145109",
+  "filings": [
+    {
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_code": "000100",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2025.12)",
+      "rcept_no": "20260312001236",
+      "flr_nm": "유한양행",
+      "rcept_dt": "20260312",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_code": "000100",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250312001137",
+      "flr_nm": "유한양행",
+      "rcept_dt": "20250312",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_code": "000100",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240307000960",
+      "flr_nm": "유한양행",
+      "rcept_dt": "20240307",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_code": "000100",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230315001431",
+      "flr_nm": "유한양행",
+      "rcept_dt": "20230315",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_code": "000100",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220310001178",
+      "flr_nm": "유한양행",
+      "rcept_dt": "20220310",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_code": "000100",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210311000883",
+      "flr_nm": "유한양행",
+      "rcept_dt": "20210311",
+      "rm": "연"
+    },
+    {
+      "corp_code": "00145109",
+      "corp_name": "유한양행",
+      "stock_code": "000100",
+      "corp_cls": "Y",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330002408",
+      "flr_nm": "유한양행",
+      "rcept_dt": "20200330",
+      "rm": "연"
+    }
+  ]
+}
