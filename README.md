@@ -1,6 +1,6 @@
 # 유한양행 OpenDART 재무 분석 에이전트
 
-<p align="center"><a href="https://jinawinwin.github.io/Dart_Yuhan/"><img src="assets/yuhan-dashboard-badge.svg" alt="🔗 대시보드 바로가기" width="320"></a></p>
+<p align="center"><a href="https://jinawinwin.github.io/Dart_Yuhan/"><img src="https://yuhan.co.kr/common/images/txt/txt_ci2.gif" alt="🔗 대시보드 바로가기" width="320"></a></p>
 
 <p align="center"><strong>🔗 <a href="https://jinawinwin.github.io/Dart_Yuhan/">대시보드 바로가기</a></strong></p>
 
