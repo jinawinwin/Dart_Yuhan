@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="92" viewBox="0 0 320 92">
+<rect width="320" height="92" rx="12" fill="#fff"/>
+<circle cx="50" cy="46" r="37" fill="#fff" stroke="#111" stroke-width="3"/>
+<path d="M29 55c4-7 7-17 10-23 3-7 9-10 15-10 5 0 10 3 14 8 3 4 5 10 9 15 4 7 7 11 7 17 0 8-9 13-17 13H46c-9 0-17-6-17-13 0-2 0-4 0-7Z" fill="#0aa347"/>
+<path d="M47 37c-4 10-6 19-6 30m11-29c-3 7-4 18-3 29m10-27c0 9 2 18 5 27m-21-12c6 3 12 3 19 0m-16-9c5 2 10 2 15-1" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M48 66c3-7 7-9 11-9 4 0 8 2 10 9v8H48Z" fill="#111"/>
+<text x="100" y="57" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="700" fill="#111">유한양행</text>
+</svg>
