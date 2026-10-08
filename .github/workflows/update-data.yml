@@ -21,7 +21,7 @@ jobs:
         env:
           DART_API_KEY: ${{ secrets.DART_API_KEY }}
         run: |
-          python scripts/fetch_opendart.py --start-year 2020
+          python scripts/fetch_opendart.py --start-year 2010
           python scripts/analyze.py
       - name: Commit updated data
         run: |
